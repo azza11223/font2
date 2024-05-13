@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "fonty";
+    src: url("JacquesFrancoisShadow-Regular.ttf");
+}
+h3 {
+    font-family: "fonty";
+    font-weight: 400;
+}
+@font-face {
+    font-family: "font";
+    src: url("OriginalSurfer-Regular.ttf");
+}
+.surfer {
+    font-family:"font";
+    
+}
+@font-face {
+    font-family: "myfont";
+    src: url("Play-Regular.ttf");
+}
+.play {
+    font-family: "myfont";
+    
+
+}
